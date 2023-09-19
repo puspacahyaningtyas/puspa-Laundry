@@ -1,11 +1,11 @@
 <p align="center">
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/logo.jpg' width='300px'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/logo.jpg' width='300px'>
 </p>
 <h1 align="center">Aplikasi Manajemen Laundry</h1>
 <br>
 <span align="center">
 
-![PHP Composer](https://github.com/haxorsprogramming/Nadha-Laundry/workflows/PHP%20Composer/badge.svg) [![Twitter](https://img.shields.io/twitter/follow/nadha_alditha.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=nadha_alditha) ![GitHub last commit](https://img.shields.io/github/last-commit/haxorsprogramming/Nadha-Laundry.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg) [![License](https://img.shields.io/github/license/haxorsprogramming/Nadha-Laundry.svg)](LICENSE)
+![PHP Composer](https://github.com/haxorsprogramming/Puspa-Laundry/workflows/PHP%20Composer/badge.svg) [![Twitter](https://img.shields.io/twitter/follow/nadha_alditha.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=nadha_alditha) ![GitHub last commit](https://img.shields.io/github/last-commit/haxorsprogramming/Puspa-Laundry.svg) ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg) [![License](https://img.shields.io/github/license/haxorsprogramming/Puspa-Laundry.svg)](LICENSE)
 
 </span>
 
@@ -46,43 +46,43 @@
 
 >> Login
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/login.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/login.png'>
 
 >> Beranda
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/beranda.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/beranda.png'>
 
 >> Kartu Cucian
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/kartu_laundry.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/kartu_laundry.png'>
 
 >> Detail Kartu Cucian 
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/detail_kartu_laundry.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/detail_kartu_laundry.png'>
 
 >> Laundry Room
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/laundry_room.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/laundry_room.png'>
 
 >> Manajemen Pelanggan
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/manajemen_pelanggan.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/manajemen_pelanggan.png'>
 
 >> Manajemen Produk
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/manajemen_produk.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/manajemen_produk.png'>
 
 >> Invoice
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/invoice.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/invoice.png'>
 
 >> Form Pembayaran
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/pembayaran.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/pembayaran.png'>
 
 >> Struk (Thermal Print)
 
-<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/NADHA-LAUNDRY/print_struk.png'>
+<img src='https://s3.jagoanstorage.com/aditia-ss-storage-3561/Puspa-Laundry/print_struk.png'>
 
 
 <br/>
@@ -92,7 +92,7 @@ Sebelum menggunakan : <br/>
 <li> Semua fungsi berjalan baik untuk localhost dengan kondisi terhubung ke internet, apabila anda ingin menggunakan di hosting/vps, dipastikan akan ada fungsi yang tidak berjalan, silahkan bertanya kepada kami untuk permasalahannya</li>
 <br/>
 
-Demo : http://nadha-laundry.justhasnah.me/
+Demo : http://Puspa-Laundry.justhasnah.me/
 
 Video : https://www.youtube.com/watch?v=IMLtmcrtffg
 
